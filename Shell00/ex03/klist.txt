@@ -1,0 +1,5 @@
+Credentials cache: API:57B83219-1A40-458D-9536-306F58966147
+        Principal: erlajoua@42.FR
+
+  Issued                Expires               Principal
+Aug  3 13:06:18 2020  Aug 10 13:06:18 2020  krbtgt/42.FR@42.FR
