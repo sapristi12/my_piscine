@@ -6,7 +6,7 @@
 /*   By: erlajoua <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/08/23 17:57:29 by erlajoua          #+#    #+#             */
-/*   Updated: 2020/08/23 23:39:39 by erlajoua         ###   ########.fr       */
+/*   Updated: 2020/08/27 20:30:10 by erlajoua         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -70,7 +70,7 @@ int		print_nb(char *dico, char *nbstr)
 
 void	sort_3(char *dico, long long nb)
 {
-	if (print_nb(dico, nbnb) == 0)
+	if (print_nb(dico, ft_itoa(nb)) == 0)
 	{
 		if (nb > 20 && nb < 100)
 		{
